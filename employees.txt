@@ -1,0 +1,10 @@
+10001,John Smith,20.50,Cashier,130.07,23.00,47
+10002,Jane Doe,18.75,Stock Clerk,150.00,18.00,47
+10003,Bob Johnson,22.00,Store Manager,160.00,22.00,47
+10004,Alice Jones,19.50,Produce Clerk,140.00,21.00,47
+10005,Carlos Alvarez,21.00,Butcher,135.00,20.00,47
+10006,Maria Garcia,17.50,Bakery Manager,145.00,19.00,47
+10007,Olivia Wright,23.00,Delicatessen Clerk,155.17,0.17,48
+10008,William Johnson,16.00,Seafood Specialist,125.00,15.00,47
+10009,Emma Thomas,20.00,Floral Designer,138.00,17.00,47
+10010,Noah Lee,18.00,Pharmacy Technician,130.00,16.00,47
