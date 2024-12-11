@@ -1,6 +1,6 @@
-# Time Management Project
+# Object Oriented Programming and Design Final Project
 
-## Overview
+## Overview: Time Management Project
 This is a final project for an Object-Oriented Programming and Design class, focused on building a time management system that leverages XML for data handling and design. The project demonstrates key principles of object-oriented programming and integrates XML for structured data management.
 
 ## Features
